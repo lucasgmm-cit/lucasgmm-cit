@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working how electrician in the Michelon Energia.
-- 🌱 I’m currently learning Java and Spring Boot
+- 🔭 I'm currently working how android developing intern at CI&T.
+- 🌱 I’m currently learning Java and how to create apps for android.
 - 💬 I started the college Computer science in january of 2021.
 - 📫 E-mail: lucasgmmro@gmail.com
 - 👨‍💻 Personal GitHub: https://github.com/lgmro
